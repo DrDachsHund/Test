@@ -1,0 +1,13 @@
+﻿Git project öfnen updaten:
+git clone [url-vonGitHub]
+cd [project]
+git branch
+git checkout master
+git pull
+
+Git project nach bearbeitung hochladen:
+git add .
+git commit -m "[your-commit-message]"
+oder
+git commit //fals sich notepadd++ öfen solte
+git push
